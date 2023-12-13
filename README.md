@@ -1,0 +1,1 @@
+# szt2palpat.github.io
