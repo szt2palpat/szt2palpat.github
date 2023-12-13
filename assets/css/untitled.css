@@ -1,0 +1,25 @@
+.btn-primary,.btn-primary:visited,.btn-primary:focus {
+  background-color: green !important;
+  color: white!important;
+  border: white!important;
+  box-shadow: none !important;
+}
+
+.btn-primary:hover{
+  background-color: white !important;
+  color: green !important;
+  border: green !important;
+  box-shadow: none !important;
+}
+
+.navbar {
+  background-color: black!important;
+}
+
+.dropdown-item:active {
+  background-color: green!important;
+}
+header{
+  background: repeating-linear-gradient(#008000 1%, rgb(0,128,0) 44%, white 100%)!important;
+}
+
